@@ -17,6 +17,10 @@ Table of Contents
 11. Important Implementation Notes
 12. Future Enhancements
 
+
+ 
+
+
 1. Overview
 
 This project implements an intelligent bus accident prevention and automatic braking system using CAN communication.
